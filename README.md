@@ -1,2 +1,3 @@
-# Data Science - Portfolio 
-Jupyter Notebooks
+# Portfolio
+Jupyter Notebooks with python
+SQL 
